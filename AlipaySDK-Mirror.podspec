@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version               = '15.8.00'
   s.summary               = 'A Mirror For AlipaySDK'
   s.homepage              = 'https://github.com/Dwarven/AlipaySDK-Mirror'
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.license               = { :type => 'MIT', :file => 'LICENSE' }
   s.author                = { 'Dwarven' => 'prison.yang@gmail.com' }
   s.social_media_url      = 'https://twitter.com/DwarvenYang'
